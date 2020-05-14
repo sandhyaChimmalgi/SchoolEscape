@@ -1,2 +1,4 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# School Escape using P5.play.js
+
+Ouput link 
+https://sandhyaranihb.github.io/SchoolEscape/
